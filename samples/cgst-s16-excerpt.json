@@ -1,0 +1,37 @@
+{
+  "extraction": {
+    "contract": "act_extraction.v2",
+    "method": "DETERMINISTIC_PARSER",
+    "prompt_version": "gst_act_sample_v1",
+    "extracted_at": "2026-08-21T00:00:00+00:00"
+  },
+  "document": {
+    "document_id": "DOC-GST-ACT-001",
+    "document_type": "ACT",
+    "source_authority": "India Code",
+    "source_url": "https://www.indiacode.nic.in/",
+    "storage_path": "samples/cgst-act-2017.pdf",
+    "sha256": "",
+    "as_on_date": "2026-06-11"
+  },
+  "instrument": {
+    "instrument_code": "CGST-2017",
+    "instrument_type": "ACT",
+    "short_title": "Central Goods and Services Tax Act, 2017",
+    "act_number": "12 of 2017",
+    "jurisdiction_id": "IN-CENTRAL",
+    "enacted_date": "2017-07-01"
+  },
+  "provisions": [
+    {
+      "provision_code": "CGST-S16",
+      "provision_type": "SECTION",
+      "label": "16",
+      "chapter": "V",
+      "heading": "Eligibility and conditions for taking input tax credit",
+      "effective_from": "2017-07-01",
+      "cross_references": ["CGST-S49", "CGST-S37", "CGST-S41", "CGST-S39", "CGST-S50"],
+      "text_content": "(1) Every registered person shall, subject to such conditions and restrictions as may be prescribed and in the manner specified in section 49, be entitled to take credit of input tax charged on any supply of goods or services or both to him which are used or intended to be used in the course or furtherance of his business and the said amount shall be credited to the electronic credit ledger of such person.\n(2) Notwithstanding anything contained in this section, no registered person shall be entitled to the credit of any input tax in respect of any supply of goods or services or both to him unless,––\n(a) he is in possession of a tax invoice or debit note issued by a supplier registered under this Act, or such other tax paying documents as may be prescribed;\n(aa) the details of the invoice or debit note referred to in clause (a) has been furnished by the supplier in the statement of outward supplies and such details have been communicated to the recipient of such invoice or debit note in the manner specified under section 37;\n(b) he has received the goods or services or both.\n(c) subject to the provisions of section 41, the tax charged in respect of such supply has been actually paid to the Government, either in cash or through utilisation of input tax credit admissible in respect of the said supply; and\n(d) he has furnished the return under section 39."
+    }
+  ]
+}
