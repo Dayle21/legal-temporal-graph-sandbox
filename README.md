@@ -202,10 +202,10 @@ Sample staging JSON: `samples/cgst-s16-excerpt.json` (Section 16 excerpt).
 
 ## License & data
 
-Sample JSON contains **public statutory text** (India Code). No client data. No PDFs included — add your own downloaded official sources when running full ingestion in the parent project.
+Sample JSON contains **public statutory text** (India Code). No client data. No PDFs included.
 
 ---
 
 ## Author
 
-Built as a temporal legal graph engine for Indian GST and expandable to broader statutory corpora. Pull this folder to a standalone GitHub repo for portfolio use.
+Lisa Dayle Carvalho
